@@ -1,7 +1,7 @@
 # Run "make help" to see a description of the targets in this Makefile.
 
 # The destination image to push to.
-export DESTINATION_DOCKER_IMAGE ?= someorg/someimage
+export DESTINATION_DOCKER_IMAGE ?= q0rban/tugboat-punchlist
 
 ## You probably don't need to modify any of the following.
 # Today's date.
