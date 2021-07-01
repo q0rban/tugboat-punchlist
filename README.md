@@ -1,6 +1,6 @@
 ## Punchlist 🥊 + Tugboat 🚢 = ✨
 
-This is a docker image for use in a [Tugboat](https://www.tugboat.qa) project to
+This is [a docker image](https://hub.docker.com/r/q0rban/tugboat-punchlist) for use in a [Tugboat](https://www.tugboat.qa) project to
 simplify connecting your project to [Punchlist](https://punchli.st/).
 
 To connect your Tugboat project to Punchli.st:
